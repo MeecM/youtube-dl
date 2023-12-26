@@ -1,9 +1,4 @@
-# Jeeaaasus - youtube-dl
-[![GitHub last commit](https://img.shields.io/github/last-commit/jeeaaasus/youtube-dl?logo=github)](https://github.com/Jeeaaasus/youtube-dl/actions/workflows/push-unstable-image.yml/)
-[![GitHub Automated build](https://img.shields.io/github/actions/workflow/status/jeeaaasus/youtube-dl/push-release-version-image.yml?logo=github)](https://github.com/Jeeaaasus/youtube-dl/actions/workflows/push-release-version-image.yml/)
-[![Image Size](https://img.shields.io/docker/image-size/jeeaaasustest/youtube-dl/latest?style=flat&logo=docker)](https://hub.docker.com/r/jeeaaasustest/youtube-dl/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/jeeaaasustest/youtube-dl?style=flat&logo=docker)](https://hub.docker.com/r/jeeaaasustest/youtube-dl/)
-[![Docker Stars](https://img.shields.io/docker/stars/jeeaaasustest/youtube-dl?style=flat&logo=docker)](https://hub.docker.com/r/jeeaaasustest/youtube-dl/)
+**Working on my own modified version of youtube-dl docker and web ui. Original at Jeeaaasus/youtube-dl**
 
 **Automated yt-dlp Docker image for downloading YouTube subscriptions**
 
